@@ -1,0 +1,959 @@
+Air,0,Purify Air,0,10
+Air,0,Seek Air,0,10
+Air,10,Body of Wind,3,7
+Air,10,Create Elemenal,3,7
+Air,10,Storm,3,7
+Air,12,Liighting Armor,4,6
+Air,1,Create Air,0,10
+Air,1,No-Smell,0,10
+Air,1,Stench,0,10
+Air,2,Destroy Air,1,9
+Air,2,Odor,1,9
+Air,2,Shape Air,1,9
+Air,3,Air Jet,2,8
+Air,3,Air Vision,2,8
+Air,3,Body of Air,2,8
+Air,3,Devitalize Air,2,8
+Air,3,Walk on Air,2,8
+Air,3,Wall of Wind,2,8
+Air,3,Windstorm,2,8
+Air,4,Clouds,2,8
+Air,4,Earth to Air,2,8
+Air,4,Predict Weather,2,8
+Air,4,Wind,2,8
+Air,5,Air Vortex,2,8
+Air,5,Concussion,2,8
+Air,5,Rain,2,8
+Air,6,Breathe Air,3,7
+Air,6,Breathe Water,3,7
+Air,6,Essential Air,3,7
+Air,6,Lightning,3,7
+Air,6,Resist Lightning,3,7
+Air,7,Body of Lightning (VH),3,7
+Air,7,Explosive Lightning,3,7
+Air,7,Lightning Weapon,3,7
+Air,7,Lightning Whip,3,7
+Air,7,Shocking Touch,3,7
+Air,7,Snow,3,7
+Air,7,Spark Cloud,3,7
+Air,7,Spark Storm,3,7
+Air,7,Wall of Lightning,3,7
+Air,8,Ball of Lightning,3,7
+Air,8,Lightning Missiles,3,7
+Air,8,Lightning Stare (VH),3,7
+Air,8,Sandstorm,3,7
+Air,8,Summon Elemental,3,7
+Air,8,Warm,3,7
+Air,9,Atmosphere Dome,3,7
+Air,9,Control Elemental,3,7
+Air,9,Cool,3,7
+Animal,0,Beast-Rouser,0,10
+Animal,0,Beast-Soother,0,10
+Animal,12,Partial Shapeshifting (VH),4,6
+Animal,15,Great Shapeshift (VH),4,6
+Animal,1,Animal Control,0,10
+Animal,1,Beast Summoning,0,10
+Animal,1,Master,0,10
+Animal,2,Beast Link,1,9
+Animal,2,Beast Speech,1,9
+Animal,2,Repel Animal,1,9
+Animal,2,Rider,1,9
+Animal,2,Spider Silk,1,9
+Animal,3,Beast-Seeker,2,8
+Animal,3,Hybrid Control (VH),2,8
+Animal,3,Rider Within,2,8
+Animal,4,Beast Posssession,2,8
+Animal,4,Repel Hybrids (VH),2,8
+Animal,5,Permanent Beast Possession (VH),2,8
+Animal,6,Shapeshifting (VH),3,7
+Animal,7,Permanent Shapeshifting (VH),3,7
+Animal,7,Protect Animal,3,7
+Animal,7,Shapeshift Others (VH),3,7
+Body Control,0,Climbing,0,10
+Body Control,0,Debility,0,10
+Body Control,0,Itch,0,10
+Body Control,0,Touch,0,10
+Body Control,10,Alter Body,3,7
+Body Control,11,Decapitation (VH),3,7
+Body Control,11,Enlarge (VH),3,7
+Body Control,11,Shrink (VH),3,7
+Body Control,12,Enlarge Other (VH),4,6
+Body Control,12,Shrink Other (VH),4,6
+Body Control,13,Transform Body,4,6
+Body Control,15,Gauntness (VH),4,6
+Body Control,15,Transform Other,4,6
+Body Control,16,Corpulence (VH),4,6
+Body Control,1,Boost Strength,VALUE!,#VALUE!
+Body Control,1,Frailty,0,10
+Body Control,1,Hinder,0,10
+Body Control,1,Might,0,10
+Body Control,1,Spasm,0,10
+Body Control,2,Clumsiness,1,9
+Body Control,2,Pain,1,9
+Body Control,2,Rooted Feet,1,9
+Body Control,2,Stop Spasm,1,9
+Body Control,2,Strike Dumb,1,9
+Body Control,2,Tanglefoot,1,9
+Body Control,2,Tickle,1,9
+Body Control,2,Vigor,1,9
+Body Control,32,Transmogrification,5,5
+Body Control,3,Boost Health,VALUE!,#VALUE!
+Body Control,3,Fumble,2,8
+Body Control,3,Grace,2,8
+Body Control,3,Hold Breath,2,8
+Body Control,3,Hunger,2,8
+Body Control,3,Perfume,2,8
+Body Control,3,Resist Pain,2,8
+Body Control,3,Stun,2,8
+Body Control,4,Ambidexterity,2,8
+Body Control,4,Balance,2,8
+Body Control,4,Boost Dexterity,VALUE!,#VALUE!
+Body Control,4,Roundabout,2,8
+Body Control,4,Sensitize,2,8
+Body Control,4,Strike Blind,2,8
+Body Control,4,Strike Deaf,2,8
+Body Control,4,Strike Numb,2,8
+Body Control,5,Agonize,2,8
+Body Control,5,Cadence,2,8
+Body Control,5,Choke,2,8
+Body Control,5,Control Limb,2,8
+Body Control,5,Hair Growth,2,8
+Body Control,5,Nauseate,2,8
+Body Control,5,Paralyze Limb,2,8
+Body Control,5,Reflexes,2,8
+Body Control,5,Sickness,2,8
+Body Control,5,Thirst,2,8
+Body Control,5,Weaken Blood,2,8
+Body Control,6,Total Paralysis,3,7
+Body Control,6,Wither Limb,3,7
+Body Control,7,Deathtouch,3,7
+Body Control,7,Lengthen Limb,3,7
+Body Control,7,Retch,3,7
+Body Control,7,Strike Barren,3,7
+Body Control,8,Alter Voice,3,7
+Body Control,8,Haircut,3,7
+Body Control,9,Alter Visage,3,7
+Communication,0,Sense Foes,0,10
+Communication,0,Sense Life,0,10
+Communication,13,Machine Speech/TL,4,6
+Communication,17,Exchange Bodies (VH),4,6
+Communication,1,Sense Emotion,0,10
+Communication,2,Hide Emotion,1,9
+Communication,2,Persuasion,1,9
+Communication,2,Truthsayer,1,9
+Communication,2,Vexation,1,9
+Communication,3,Compel Truth,2,8
+Communication,3,Dream Sending,2,8
+Communication,3,Dream Viewing,2,8
+Communication,3,Hide Thoughts,2,8
+Communication,3,Lend Language,2,8
+Communication,3,Mind-Reading,2,8
+Communication,4,Borrow Language,2,8
+Communication,4,Compel Lie,2,8
+Communication,4,Dream Projection,2,8
+Communication,4,Mind-Search (VH),2,8
+Communication,4,Mind-Sending,2,8
+Communication,4,Soul Rider,2,8
+Communication,5,Control Person,2,8
+Communication,5,Dispel Possession,2,8
+Communication,5,Gift of Letters (VH),2,8
+Communication,5,Gift of Tongues (VH),2,8
+Communication,5,Lend Skill,2,8
+Communication,5,Possession (VH),2,8
+Communication,5,Telepathy (VH),2,8
+Communication,6,Borrow Skill,3,7
+Communication,6,Permanent Possession(VH),3,7
+Communication,6,Retrogression,3,7
+Communication,7,Message,3,7
+Communication,8,Insignificance,3,7
+Communication,8,Presence,3,7
+Communication,9,Communication (VH),3,7
+Earth,0,Seek Earth,0,10
+Earth,10,Create Elemenal,3,7
+Earth,11,Alter Terrain (VH),3,7
+Earth,13,Volcano,4,6
+Earth,1,Seek Pass,0,10
+Earth,1,Shape Earth,0,10
+Earth,29,Move Terrain (VH),5,5
+Earth,2,Earth to Stone,1,9
+Earth,2,Earth Vision,1,9
+Earth,3,Create Earth,2,8
+Earth,3,Flesh to Stone,2,8
+Earth,3,Stone to Earth,2,8
+Earth,4,Earth to Air,2,8
+Earth,4,Partial Petrification (VH),2,8
+Earth,4,Predice Earth Movement,2,8
+Earth,4,Rain of Stones,2,8
+Earth,4,Sand Jet,2,8
+Earth,4,Stone Missile,2,8
+Earth,4,Walk Through Earth,2,8
+Earth,5,Entombment,6,4
+Earth,5,Earth to Water,2,8
+Earth,5,Steelwraith,2,8
+Earth,5,Stone to Flesh,2,8
+Earth,6,Body of Stone (VH),3,7
+Earth,6,Earthquake,3,7
+Earth,6,Essential Earth,3,7
+Earth,8,Mud Jet,3,7
+Earth,8,Purify Earth,3,7
+Earth,8,Sandstorm,3,7
+Earth,8,Summon Elemental,3,7
+Earth,9,Control Elemental,3,7
+Enchantment,0,Scroll,0,10
+Enchantment,10,Enchant (VH),3,7
+Enchantment,11,Bane,3,7
+Enchantment,11,Deflect,3,7
+Enchantment,11,Fortify,3,7
+Enchantment,11,Graceful Weapon,3,7
+Enchantment,11,Hex,3,7
+Enchantment,11,Lesser Wish (VH),3,7
+Enchantment,11,Lighten,3,7
+Enchantment,11,Limit,3,7
+Enchantment,11,Loyal Sword,3,7
+Enchantment,11,Malefice (VH),3,7
+Enchantment,11,Manastone (VH),3,7
+Enchantment,11,Name,3,7
+Enchantment,11,One-College Powerstone,3,7
+Enchantment,11,Password,3,7
+Enchantment,11,Penetrating Weapon,3,7
+Enchantment,11,Powerstone,3,7
+Enchantment,11,Quick-Draw,3,7
+Enchantment,11,Remove Enchantment,3,7
+Enchantment,11,Speed,3,7
+Enchantment,11,Staff,3,7
+Enchantment,11,Suspend Enchantment,3,7
+Enchantment,11,Temporary Enchantment,3,7
+Enchantment,12,Attune,4,6
+Enchantment,12,Dancing Sheild,4,6
+Enchantment,12,Dancing Weapon,4,6
+Enchantment,12,Defending Weapon,4,6
+Enchantment,12,Ensorcel (VH),4,6
+Enchantment,12,Impression Blocker,4,6
+Enchantment,12,Power,4,6
+Enchantment,12,Resist Enchantment,4,6
+Enchantment,12,Weapon Spirit,4,6
+Enchantment,13,Cornucopia,4,6
+Enchantment,13,Crystal Ball,4,6
+Enchantment,13,Effigy (VH),4,6
+Enchantment,14,Adjustable Clothing,4,6
+Enchantment,14,Defending Shield,4,6
+Enchantment,14,Ghost Weapon,4,6
+Enchantment,14,Golem (VH),4,6
+Enchantment,14,Quick-Aim,4,6
+Enchantment,15,Accuracy,4,6
+Enchantment,15,Hideaway,4,6
+Enchantment,15,Homonculus,4,6
+Enchantment,15,Puissance,4,6
+Enchantment,16,Leak,4,6
+Enchantment,16,Spell Stone,4,6
+Enchantment,17,Spell Arrow,4,6
+Enchantment,17,Wish (VH),4,6
+Enchantment,18,Blank Spell Arrow (VH),4,6
+Enchantment,18,Great Wish (VH),4,6
+Enchantment,18,Simulacrum (VH),4,6
+Enchantment,18,Speed Spell Arrow,4,6
+Enchantment,19,Lich (VH),4,6
+Enchantment,19,Soul Stone (VH),4,6
+Enchantment,24,Wraith (VH),5,5
+Enchantment,29,Doppelgänger (VH),5,5
+Fire,0,Ignite Fire,0,10
+Fire,0,Seek Fire,0,10
+Fire,10,Burning Death (VH),3,7
+Fire,10,Create Elemenal,3,7
+Fire,1,Create Fire,0,10
+Fire,1,Extinguish Fire,0,10
+Fire,1,Phantom Flame,0,10
+Fire,1,Shape Fire,0,10
+Fire,2,Deflect Energy,1,9
+Fire,2,Fireproof,1,9
+Fire,2,Rain of Fire,1,9
+Fire,2,Slow Fire,1,9
+Fire,3,Fast Fire,2,8
+Fire,3,Fireball,2,8
+Fire,3,Flame Jet,2,8
+Fire,3,Heat,2,8
+Fire,3,Resist Fire,2,8
+Fire,3,Smoke,2,8
+Fire,4,Cold,2,8
+Fire,4,Explosive Fireball,2,8
+Fire,4,Flaming Weapon,2,8
+Fire,4,Resist Cold,2,8
+Fire,4,Warmth,2,8
+Fire,5,Flaming Missiles,2,8
+Fire,6,Burning Touch,3,7
+Fire,6,Essential Flame,3,7
+Fire,7,Breathe Fire (VH),3,7
+Fire,7,Fire Cloud,3,7
+Fire,7,Flaming Armor,3,7
+Fire,8,Body of Flames (VH),3,7
+Fire,8,Summon Elemental,3,7
+Fire,9,Control Elemental,3,7
+Food,0,Seek Food,0,10
+Food,0,Test Food,0,10
+Food,10,Monk’s Banquet,3,7
+Food,1,Decay,0,10
+Food,1,Far-Tasting,0,10
+Food,1,Season,0,10
+Food,2,Mature,1,9
+Food,2,Preserve Food,1,9
+Food,2,Purify Food,1,9
+Food,3,Cook,2,8
+Food,3,Hunger,2,8
+Food,3,Poison Food,2,8
+Food,3,Prepare Game,2,8
+Food,3,Wizard Nose,2,8
+Food,4,Foul Water,2,8
+Food,4,Know Recipe,2,8
+Food,5,Create Food,2,8
+Food,5,Fool's Banquet,2,8
+Food,5,Thirst,2,8
+Food,5,Water to Wine,2,8
+Food,7,Distill,3,7
+Food,7,Wizard Mouth,3,7
+Food,8,Essential Food (VH),3,7
+Food,8,Scents of the Past,3,7
+Gate,10,Create Door,3,7
+Gate,10,Planar Summons,3,7
+Gate,11,Plane Shift (VH),3,7
+Gate,11,Seek Gate,3,7
+Gate,12,Control Gate,4,6
+Gate,12,Plane Shift Other (VH),4,6
+Gate,12,Scry Gate,4,6
+Gate,14,Create Gate (VH),4,6
+Gate,20,Accelerate Time (VH),4,6
+Gate,20,Hide Object,4,6
+Gate,20,Slow Time (VH),4,6
+Gate,21,Sanctuary (VH),4,6
+Gate,21,Suspend Time (VH),4,6
+Gate,21,Time Out (VH),4,6
+Gate,4,Teleport (VH),2,8
+Gate,5,Beacon,2,8
+Gate,5,Blink,2,8
+Gate,5,Phase,2,8
+Gate,5,Rapid Journey (VH),2,8
+Gate,5,Teleport Other (VH),2,8
+Gate,5,Timeport (VH),2,8
+Gate,5,Trace Teleport,2,8
+Gate,6,Blink Other (VH),3,7
+Gate,6,Divert Teleport (VH),3,7
+Gate,6,Phase Other (VH),3,7
+Gate,6,Timeport Other (VH),3,7
+Gate,6,Timeslip,3,7
+Gate,7,Planar Visit (VH),3,7
+Gate,7,Teleport Shield,3,7
+Gate,7,Timeslip Other (VH),3,7
+Healing,0,Final Rest,0,10
+Healing,0,Lend Energy,0,10
+Healing,12,Cleansing,4,6
+Healing,12,Cure Radiation (VH),4,6
+Healing,1,Body-Reading,0,10
+Healing,1,Detect Poison,0,10
+Healing,1,Lend Vitality,0,10
+Healing,1,Neutralize Poison,0,10
+Healing,1,Recover Energy,0,10
+Healing,1,Share Energy,0,10
+Healing,2,Awaken,1,9
+Healing,2,Instant Neutralize Poison,1,9
+Healing,2,Minor Healing,1,9
+Healing,2,Relieve Addiction,1,9
+Healing,2,Relieve Sickness,1,9
+Healing,2,Remove Contagion,1,9
+Healing,2,Share Vitality,1,9
+Healing,2,Stop Bleeding,1,9
+Healing,2,Stop Spasm,1,9
+Healing,3,Major Healing (VH),2,8
+Healing,3,Resist Disease,2,8
+Healing,3,Resist Poison,2,8
+Healing,3,Restore Memory,2,8
+Healing,4,Great Healing (VH),2,8
+Healing,4,Restoration (VH),2,8
+Healing,4,Restore Hearing,2,8
+Healing,4,Restore Sight,2,8
+Healing,4,Stop Paralysis,2,8
+Healing,5,Cure Disease,2,8
+Healing,5,Instant Restoration (VH),2,8
+Healing,5,Regeneration (VH),2,8
+Healing,5,Relieve Paralysis,2,8
+Healing,6,Healing Slumber,3,7
+Healing,6,Instant Regeneration (VH),3,7
+Healing,6,Resore Spech,3,7
+Healing,7,Suspended Animation,3,7
+Healing,8,Halt Aging (VH),3,7
+Healing,9,Relieve Madness,3,7
+Healing,9,Resurrection (VH),3,7
+Healing,9,Youth (VH),3,7
+Illusion,0,Simple Illusion,0,10
+Illusion,10,Control Creation,3,7
+Illusion,10,Create Warrior,3,7
+Illusion,11,Dispel Creation,3,7
+Illusion,12,Create Animal,4,6
+Illusion,13,Create Mount,4,6
+Illusion,15,Duplicate (VH),4,6
+Illusion,1,Illusion Disguise,0,10
+Illusion,1,Illusion Shell,0,10
+Illusion,1,Independence,0,10
+Illusion,1,Know Illusion,0,10
+Illusion,1,Phantom Flame,0,10
+Illusion,2,Complex Illusion,1,9
+Illusion,3,Perfect Illusion,2,8
+Illusion,4,Control Illusion,2,8
+Illusion,5,Dispel Illusion,2,8
+Illusion,7,Inscribe,3,7
+Illusion,7,Phantom (VH),3,7
+Illusion,8,Create Object (VH),3,7
+Illusion,9,Create Servant,3,7
+Illusion,9,Initiative,3,7
+Knowledge,0,Detect Magic,0,10
+Knowledge,0,Far-Feeling,0,10
+Knowledge,0,Find Direction,0,10
+Knowledge,0,Measurement,0,10
+Knowledge,0,Tell Time,0,10
+Knowledge,10,Invisible Wizard Eye,3,7
+Knowledge,1,Alarm,0,10
+Knowledge,1,Aura,0,10
+Knowledge,1,Far-Tasting,0,10
+Knowledge,1,Identify Spell,0,10
+Knowledge,1,Mage Sense,0,10
+Knowledge,1,Mage Sight,0,10
+Knowledge,1,Seek Magic,0,10
+Knowledge,1,Sense Mana,0,10
+Knowledge,1,Small Vision,0,10
+Knowledge,1,Tell Position,0,10
+Knowledge,1,Test Load,0,10
+Knowledge,2,Earth Vision,1,9
+Knowledge,2,Know Location,1,9
+Knowledge,2,Pathfinder,1,9
+Knowledge,2,Seeker,1,9
+Knowledge,2,Summon Shade (VH),1,9
+Knowledge,2,Wizard Eye,1,9
+Knowledge,3,Air Vision,2,8
+Knowledge,3,Analyze Magic,2,8
+Knowledge,3,Glass Wall,2,8
+Knowledge,3,Metal Vision,2,8
+Knowledge,3,Plant Vision,2,8
+Knowledge,3,Trace,2,8
+Knowledge,3,Wizard Nose,2,8
+Knowledge,4,Far-Healing,2,8
+Knowledge,4,History,2,8
+Knowledge,4,Know Recipe,2,8
+Knowledge,4,Plastic Vision,2,8
+Knowledge,4,Wizard Hand,2,8
+Knowledge,5,Ancient History,2,8
+Knowledge,5,See Secrets,2,8
+Knowledge,6,Astral Vision (VH),3,7
+Knowledge,6,Images of the Past,3,7
+Knowledge,6,Memorize,3,7
+Knowledge,6,Prehistory,3,7
+Knowledge,6,Projection,3,7
+Knowledge,7,Echoes of the Past,3,7
+Knowledge,7,Reconstruct Spell,3,7
+Knowledge,7,Remember Path,3,7
+Knowledge,7,Schematic/TL,3,7
+Knowledge,7,Wizard Mouth,3,7
+Knowledge,8,Scents of the Past,3,7
+Knowledge,9,Know Trus Shape,3,7
+Knowledge,9,Recall,3,7
+Light,0,Light,0,10
+Light,1,Bright Vision,0,10
+Light,1,Colors,0,10
+Light,1,Continual Light,0,10
+Light,1,Hawk Vision,0,10
+Light,1,Infravision,0,10
+Light,1,Night Vision,0,10
+Light,1,Remove Shadow,0,10
+Light,1,Shape Light,0,10
+Light,1,Small Vision,0,10
+Light,2,Darkness,1,9
+Light,2,Dark Vision,1,9
+Light,2,Flash,1,9
+Light,2,Gloom,1,9
+Light,2,Glow,1,9
+Light,2,Hide,1,9
+Light,2,Light Jet,1,9
+Light,2,Mirror,1,9
+Light,2,Remove Reflection,1,9
+Light,2,Wall of Light,1,9
+Light,3,Blackout,2,8
+Light,3,Blur,2,8
+Light,3,Mage Light,2,8
+Light,3,See Invisible,2,8
+Light,3,Shape Darkness,2,8
+Light,4,Body of Shadow,2,8
+Light,4,Sunlight,2,8
+Light,5,Continual Mage Light,2,8
+Light,5,Continual Sunlight,2,8
+Light,6,Images of the Past,3,7
+Light,6,Invisibility,3,7
+Light,6,Sunbolt,3,7
+Making,0,Inspired Creation (VH),0,10
+Making,10,Fasten,3,7
+Making,10,Shatterproof,3,7
+Making,11,Toughen,3,7
+Making,12,Weapon Self (VH),4,6
+Making,14,Tranform Object (VH),4,6
+Making,15,Contract Object (VH),4,6
+Making,15,Extend Object (VH),4,6
+Making,16,Enlarge Object (VH),4,6
+Making,16,Shrink Object (VH),4,6
+Making,17,Disintegrate (VH),4,6
+Making,1,Restore,0,10
+Making,22,Rebuild/TL,4,6
+Making,2,Clean,1,9
+Making,3,Awaken Craft Spirit,2,8
+Making,3,Soilproof,2,8
+Making,4,Dye,2,8
+Making,4,Find Weakness,2,8
+Making,5,Copy,2,8
+Making,5,Weaken,2,8
+Making,6,Animate Object (VH),3,7
+Making,6,Shatter (VH),3,7
+Making,7,Inscribe,3,7
+Making,7,Rejoin,3,7
+Making,7,Reshape,3,7
+Making,7,Rive (VH),3,7
+Making,8,Explode (VH),3,7
+Making,8,Repair,3,7
+Making,8,Ruin,3,7
+Making,8,Stiffen,3,7
+Making,9,Knot,3,7
+Making,9,Mapmaker,3,7
+Making,9,Mystic Mark,3,7
+Making,9,Sharpen,3,7
+Making,9,Transparancy,3,7
+Meta,0,Counterspell,0,10
+Meta,0,Scryguard,0,10
+Meta,0,Suspend Spell,0,10
+Meta,0,Ward,0,10
+Meta,10,Displace Spell,3,7
+Meta,11,Lend Spell,3,7
+Meta,11,Suspend Mana (VH),3,7
+Meta,12,Charge Powerstone (VH),4,6
+Meta,12,Suspend Curse,4,6
+Meta,12,Telecast (VH),4,6
+Meta,13,Dispel Magic,4,6
+Meta,13,Remove Curse,4,6
+Meta,13,Steal Spell (VH),4,6
+Meta,14,Drain Mana (VH),4,6
+Meta,14,Remove Aura,4,6
+Meta,14,Restore Mana (VH),4,6
+Meta,14,Spellguard (VH),4,6
+Meta,15,Delay,4,6
+Meta,16,Hang Spell (VH),4,6
+Meta,16,Link,4,6
+Meta,16,Penetrating Spell,4,6
+Meta,16,Reflex,4,6
+Meta,16,Throw Spell (VH),4,6
+Meta,17,Maintain Spell (VH),4,6
+Meta,1,Conceal Magic,0,10
+Meta,1,Great Ward,0,10
+Meta,1,Reflect,0,10
+Meta,1,Scrywall,0,10
+Meta,1,Seek Magic,0,10
+Meta,20,Bless,4,6
+Meta,20,Curse,4,6
+Meta,20,Suspend Magery (VH),4,6
+Meta,21,Drain Magery (VH),4,6
+Meta,3,False Aura,2,8
+Meta,3,Scryfool,2,8
+Meta,4,Catch Spell (VH),2,8
+Meta,7,Magic Resistance,3,7
+Meta,8,Spell Shield,3,7
+Meta,9,Pentegram,3,7
+Meta,9,Spell Wall,3,7
+Meta,9,Suspend Magic,3,7
+Mind Control,0,Dull Sense,0,10
+Mind Control,0,Fear,0,10
+Mind Control,0,Foolishness,0,10
+Mind Control,0,Keen Sense,0,10
+Mind Control,10,Lesser Geas (VH),3,7
+Mind Control,14,Enslave (VH),4,6
+Mind Control,15,Gread Geas (VH),4,6
+Mind Control,1,Bravery,0,10
+Mind Control,1,Daze,0,10
+Mind Control,1,Disorient,0,10
+Mind Control,1,Forgetfulness,0,10
+Mind Control,1,Panic,0,10
+Mind Control,1,Terror,0,10
+Mind Control,1,Weaken Will,0,10
+Mind Control,2,Alertness (VH),1,9
+Mind Control,2,Berserker,1,9
+Mind Control,2,Command,1,9
+Mind Control,2,Dullness (VH),1,9
+Mind Control,2,Encrypt,1,9
+Mind Control,2,Farcinate,1,9
+Mind Control,2,Madness,1,9
+Mind Control,2,Mass Daze,1,9
+Mind Control,2,Mental Stun,1,9
+Mind Control,2,Mindlessness (VH),1,9
+Mind Control,2,Permanent Forgetfulness (VH),1,9
+Mind Control,2,Sleep,1,9
+Mind Control,3,Dream Sending,2,8
+Mind Control,3,Emotion Control,2,8
+Mind Control,3,Loyalty,2,8
+Mind Control,3,Mass Sleep,2,8
+Mind Control,3,Permanent Madness (VH),2,8
+Mind Control,3,Rear Vision,2,8
+Mind Control,4,Avoid,2,8
+Mind Control,4,Compel Lie,2,8
+Mind Control,4,Dream Projection,2,8
+Mind Control,4,Drunkenness,2,8
+Mind Control,4,Ecstasy (VH),2,8
+Mind Control,4,Lure,2,8
+Mind Control,4,Oath,2,8
+Mind Control,4,Vigil (VH),2,8
+Mind Control,4,Will Lock,2,8
+Mind Control,5,Nightmare,2,8
+Mind Control,5,Peaceful Sleep,2,8
+Mind Control,5,Sickness,2,8
+Mind Control,5,Suggestion,2,8
+Mind Control,6,Enthrall,3,7
+Mind Control,6,Glib Tongue,3,7
+Mind Control,6,Mass Suggestion,3,7
+Mind Control,6,Memorize,3,7
+Mind Control,6,Strengthen Will,3,7
+Mind Control,6,Wisdom,3,7
+Mind Control,7,Boost Intelligence,VALUE!,#VALUE!
+Mind Control,7,False Memory,3,7
+Mind Control,7,Hallucination,3,7
+Mind Control,8,Charm,3,7
+Mind Control,8,Great Hallucination (VH),3,7
+Mind Control,9,Recall,3,7
+Mind Control,9,Relieve Madness,3,7
+Movement,0,Apportation,0,10
+Movement,0,Haste,0,10
+Movement,12,Cloud-Vaulting (VH),4,6
+Movement,1,Dancing Object,0,10
+Movement,1,Deflect Missile,0,10
+Movement,1,Distant Blow,0,10
+Movement,1,Glue,0,10
+Movement,1,Grease,0,10
+Movement,1,Great Haste (VH),0,10
+Movement,1,Hinder,0,10
+Movement,1,Hold Fast,0,10
+Movement,1,Increase Burden,0,10
+Movement,1,Jump,0,10
+Movement,1,Levitation,0,10
+Movement,1,Lighten Burden,0,10
+Movement,1,Lockmaster,0,10
+Movement,1,Locksmith,0,10
+Movement,1,Long March,0,10
+Movement,1,Poltergeist,0,10
+Movement,1,Quick March,0,10
+Movement,1,Slow Fall,0,10
+Movement,1,Wallwalker,0,10
+Movement,2,Flight (VH),1,9
+Movement,2,Manipulate,1,9
+Movement,2,Slow,1,9
+Movement,2,Undo,1,9
+Movement,2,Winged Knife,1,9
+Movement,3,Flying Carpet (VH),2,8
+Movement,3,Hawk Flight (VH),2,8
+Movement,3,Light Tread,2,8
+Movement,3,Slide,2,8
+Movement,4,Ethereal Body (VH),2,8
+Movement,4,Pull,2,8
+Movement,4,Repel,2,8
+Movement,4,Teleport (VH),2,8
+Movement,4,Wizard Hand,2,8
+Movement,5,Air Vortex,2,8
+Movement,5,Beacon,2,8
+Movement,5,Blink,2,8
+Movement,5,Rapid Journey (VH),2,8
+Movement,5,Teleport Other (VH),2,8
+Movement,5,Trace Teleport,2,8
+Movement,6,Blink Other (VH),3,7
+Movement,6,Divert Teleport (VH),3,7
+Movement,6,Swim,3,7
+Movement,9,Cloud-Walking,3,7
+Movement,9,Freedom,3,7
+Necromancy,0,Death Vision,0,10
+Necromancy,0,Final Rest,0,10
+Necromancy,10,Banish,3,7
+Necromancy,10,Burning Death (VH),3,7
+Necromancy,10,Summon Demon,3,7
+Necromancy,11,Entrap Spirit,3,7
+Necromancy,12,Bind Spirit (VH),4,6
+Necromancy,13,Steal Youth (VH),4,6
+Necromancy,14,Repel Spirits,4,6
+Necromancy,15,Steal Beauty (VH),4,6
+Necromancy,16,Astral Block,4,6
+Necromancy,19,Lich (VH),4,6
+Necromancy,1,Sense Spirit,0,10
+Necromancy,1,Summon Spirit,0,10
+Necromancy,24,Wraith (VH),5,5
+Necromancy,2,Animation (VH),1,9
+Necromancy,2,Materialize,1,9
+Necromancy,3,Awaken Craft Spirit,2,8
+Necromancy,3,Solidify,2,8
+Necromancy,3,Steal Energy,2,8
+Necromancy,3,Turn Spirit,2,8
+Necromancy,4,Affect Spirits,2,8
+Necromancy,4,Skull-Spirit,2,8
+Necromancy,4,Steal Vitality,2,8
+Necromancy,4,Zombie,2,8
+Necromancy,5,Command Spirit,2,8
+Necromancy,5,Control Zombie,2,8
+Necromancy,5,Mass Zombie (VH),2,8
+Necromancy,5,Turn Zombie,2,8
+Necromancy,5,Weaken Blood,2,8
+Necromancy,5,Zombie Summoning,2,8
+Necromancy,6,Age (VH),3,7
+Necromancy,6,Astral Vision (VH),3,7
+Necromancy,6,Evisceration (VH),3,7
+Necromancy,6,Slow Healing,3,7
+Necromancy,7,Pestilence,3,7
+Necromancy,7,Stop Healing,3,7
+Necromancy,7,Strike Barren,3,7
+Necromancy,9,Animate Shadow,3,7
+Necromancy,9,Resurrection (VH),3,7
+Necromancy,9,Rotting Death (VH),3,7
+Necromancy,9,Soul Jar (VH),3,7
+Necromancy,9,Steal Skill (VH),3,7
+Necromancy,5,Steal Vigor (VH),5,#VALUE!
+Necromancy,4,Steal Might (VH),E!,#VALUE!
+Necromancy,6,Steal Dexterity (VH),#VALUE!,#VALUE!
+Necromancy,4,Steal Wisdom (VH),#VALUE!,#VALUE!
+Plant,0,Seek Plant,0,10
+Plant,11,Body of Slime,3,7
+Plant,1,Identify Plant,0,10
+Plant,2,Heal Plant,1,9
+Plant,2,Shape Plant,1,9
+Plant,3,Bless Plants,2,8
+Plant,3,Hide Path,2,8
+Plant,3,Plant Growth,2,8
+Plant,3,Plant Vision,2,8
+Plant,3,Pollen Cloud,2,8
+Plant,4,Blight,2,8
+Plant,4,Blossom,2,8
+Plant,4,Conceal,2,8
+Plant,4,Create Plant,2,8
+Plant,4,Forest Warning,2,8
+Plant,4,Rejuvenate Plant,2,8
+Plant,4,Tangle Growth,2,8
+Plant,5,False Tracks,2,8
+Plant,5,Plant Sense,2,8
+Plant,5,Walk Through Plants,2,8
+Plant,5,Wither Plant,2,8
+Plant,6,Essential Wood,3,7
+Plant,6,Plant Control,3,7
+Plant,6,Plant Form,3,7
+Plant,6,Plant Speech,3,7
+Plant,6,Rain of Nuts,3,7
+Plant,6,Walk Through Wood,3,7
+Plant,7,Animate Plant,3,7
+Plant,7,Arboreal Immurement,3,7
+Plant,7,Body of Wood,3,7
+Plant,7,Plant Form Other,3,7
+Plant,8,Purify Earth,3,7
+Protection,0,Block,0,10
+Protection,0,Magelock,0,10
+Protection,0,Sense Danger,0,10
+Protection,0,Shield,0,10
+Protection,10,Force Dome,3,7
+Protection,11,Force Wall,3,7
+Protection,14,Utter Dome,4,6
+Protection,16,Utter Wall,4,6
+Protection,1,Armor,0,10
+Protection,1,Bladeturning,0,10
+Protection,1,Deflect Missile,0,10
+Protection,1,Detect Poison,0,10
+Protection,1,Hardiness,0,10
+Protection,1,Missile Shield,0,10
+Protection,1,Mystic Mist,0,10
+Protection,1,Nightingale,0,10
+Protection,1,Sense Observation,0,10
+Protection,1,Shade,0,10
+Protection,1,Turn Blade,0,10
+Protection,1,Umbrella,0,10
+Protection,1,Watchdog,0,10
+Protection,2,Catch Missile,1,9
+Protection,2,Resist Water,1,9
+Protection,2,Reverse Missiles,1,9
+Protection,3,Reflect Gaze (VH),2,8
+Protection,3,Resist Disease,2,8
+Protection,3,Resist Poison,2,8
+Protection,3,Returrn Missile,2,8
+Protection,4,Iron Arm,2,8
+Protection,4,Resist Sound,2,8
+Protection,4,Warmth,2,8
+Protection,5,Coolness,2,8
+Protection,6,Resist Lightning,3,7
+Protection,7,Protect Animal,3,7
+Protection,7,Resist Radiation,3,7
+Protection,7,Teleport Shield,3,7
+Protection,8,Resist Acid,3,7
+Protection,8,Weather Dome,3,7
+Protection,9,Atmosphere Dome,3,7
+Protection,9,Freedom,3,7
+Protection,9,Resist Pressure,3,7
+Sound,0,Sound,0,10
+Sound,0,Sound Vision,0,10
+Sound,14,Invisible Wizard Ear,4,6
+Sound,1,Silence,0,10
+Sound,1,Thunderclap,0,10
+Sound,1,Voices,0,10
+Sound,2,Garble,1,9
+Sound,2,Hush,1,9
+Sound,2,Imitate Voice,1,9
+Sound,2,Wall of Silence,1,9
+Sound,3,Delayed Message,2,8
+Sound,3,Great Voice,2,8
+Sound,3,Mage-Stealth,2,8
+Sound,3,Noise,2,8
+Sound,4,Converse,2,8
+Sound,4,Far-Healing,2,8
+Sound,4,Resist Sound,2,8
+Sound,4,Scribe,2,8
+Sound,4,Sound Jet,2,8
+Sound,5,Concussion,2,8
+Sound,5,Musical Scribe,2,8
+Sound,6,Silver Tongue,3,7
+Sound,6,Wizard Ear,3,7
+Sound,7,Echoes of the Past,3,7
+Sound,7,Message,3,7
+Sound,7,Wizard Mouth,3,7
+Sound,8,Alter Voice,3,7
+Technology,0,Identify Metal,0,10
+Technology,0,Identify Plastic,0,10
+Technology,0,Seek Fuel/TL,0,10
+Technology,0,Seek Machine/TL,0,10
+Technology,0,Seek Plastic,0,10
+Technology,0,Seek Power/TL,0,10
+Technology,0,See Radiation,0,10
+Technology,0,Test Fuel/TL,0,10
+Technology,10,Awaken Computer/TL,3,7
+Technology,11,Machine Control/TL,3,7
+Technology,12,Cure Radiation (VH),4,6
+Technology,12,Glitch/TL,4,6
+Technology,12,Machine Summoning/TL,4,6
+Technology,13,Machine Speech/TL,4,6
+Technology,13,Malfunction/TL,4,6
+Technology,15,Animate Machine/TL,4,6
+Technology,16,Machine Possession/TL,4,6
+Technology,17,Permanent Machine Possession/TL,4,6
+Technology,1,Conduct Power/TL (VH),0,10
+Technology,1,Lend Power/TL,0,10
+Technology,1,Magnetic Vision,0,10
+Technology,1,Preserve Fuel/TL,0,10
+Technology,1,Radio Hearing,0,10
+Technology,1,Reveal Function/TL,0,10
+Technology,1,Seek Radiation,0,10
+Technology,1,Stop Power,0,10
+Technology,22,Draw Power/TL (VH),4,6
+Technology,22,Rebuild/TL,4,6
+Technology,2,Purify Fuel/TL,1,9
+Technology,2,Shape Metal,1,9
+Technology,2,Spectrum Vision,1,9
+Technology,3,Body of Metal (VH),2,8
+Technology,3,Metal Vision,2,8
+Technology,3,Shape Plastic,2,8
+Technology,4,Body of Plastic,2,8
+Technology,4,Irradiate,2,8
+Technology,4,Plastic Vision,2,8
+Technology,5,Create Fuel/TL,2,8
+Technology,5,Steal Power/TL (VH),2,8
+Technology,6,Essential Fuel/TL,3,7
+Technology,7,Resist Radiation,3,7
+Technology,7,Schematic/TL,3,7
+Technology,8,Extinguish Radiation (VH),3,7
+Technology,8,Propel/TL,3,7
+Technology,8,Radiation Jet,3,7
+Technology,9,Breathe Radiation (VH),3,7
+Water,0,Seek Water,0,10
+Water,10,Acid Jet,3,7
+Water,10,Create Elemenal,3,7
+Water,10,Steam Jet,3,7
+Water,10,Storm,3,7
+Water,12,Icy Breath (VH),4,6
+Water,12,Rain of Ice Daggers,4,6
+Water,12,Spit Acid (VH),4,6
+Water,13,Essential Acid (VH),4,6
+Water,14,Breathe Steam (VH),4,6
+Water,1,Purify Water,0,10
+Water,1,Seek Coastline,0,10
+Water,1,Umbrella,0,10
+Water,2,Create Water,1,9
+Water,2,Resist Water,1,9
+Water,3,Destroy Water,2,8
+Water,3,Frost,2,8
+Water,3,Icy Weapon,2,8
+Water,3,Shape Water,2,8
+Water,4,Body of Water,2,8
+Water,4,Fog,2,8
+Water,4,Foul Water,2,8
+Water,4,Freeze,2,8
+Water,4,Ice Slick,2,8
+Water,4,Ice Sphere,2,8
+Water,4,Icy Missiles,2,8
+Water,4,Icy Touch,2,8
+Water,4,Melt Ice,2,8
+Water,4,Snow Shoes,2,8
+Water,4,Walk on Water,2,8
+Water,4,Walk Through Water,2,8
+Water,4,Water Jet,2,8
+Water,4,Water Vision,2,8
+Water,4,Waves,2,8
+Water,4,Whirlpool,2,8
+Water,5,Condense Steam,2,8
+Water,5,Coolness,2,8
+Water,5,Create Ice,2,8
+Water,5,Dehydrate,2,8
+Water,5,Earth to Water,2,8
+Water,5,Ice Dagger,2,8
+Water,5,Rain,2,8
+Water,6,Body of Ice (VH),3,7
+Water,6,Breathe Air,3,7
+Water,6,Breathe Water,3,7
+Water,6,Current,3,7
+Water,6,Dry Spring,3,7
+Water,6,Essential Water,3,7
+Water,6,Frostbite,3,7
+Water,6,Snow Jet,3,7
+Water,6,Swim,3,7
+Water,7,Create Acid,3,7
+Water,7,Distill,3,7
+Water,7,Rain of Acid,3,7
+Water,7,Snow,3,7
+Water,8,Acid Ball,3,7
+Water,8,Boil Water,3,7
+Water,8,Create Spring,3,7
+Water,8,Flesh to Ice (VH),3,7
+Water,8,Hail,3,7
+Water,8,Mud Jet,3,7
+Water,8,Resist Acid,3,7
+Water,8,Summon Elemental,3,7
+Water,8,Tide,3,7
+Water,9,Control Elemental,3,7
+Water,9,Create Steam,3,7
+Water,9,Geyser (VH),3,7
+Weather,10,Storm,3,7
+Weather,12,Cloud-Vaulting (VH),4,6
+Weather,12,Liighting Armor,4,6
+Weather,3,Frost,2,8
+Weather,4,Clouds,2,8
+Weather,4,Fog,2,8
+Weather,4,Predict Weather,2,8
+Weather,4,Waves,2,8
+Weather,4,Wind,2,8
+Weather,5,Rain,2,8
+Weather,6,Current,3,7
+Weather,6,Lightning,3,7
+Weather,6,Resist Lightning,3,7
+Weather,7,Body of Lightning (VH),3,7
+Weather,7,Explosive Lightning,3,7
+Weather,7,Lightning Weapon,3,7
+Weather,7,Lightning Whip,3,7
+Weather,7,Shocking Touch,3,7
+Weather,7,Snow,3,7
+Weather,7,Spark Cloud,3,7
+Weather,7,Spark Storm,3,7
+Weather,7,Wall of Lightning,3,7
+Weather,8,Ball of Lightning,3,7
+Weather,8,Hail,3,7
+Weather,8,Lightning Missiles,3,7
+Weather,8,Lightning Stare (VH),3,7
+Weather,8,Tide,3,7
+Weather,8,Warm,3,7
+Weather,8,Weather Dome,3,7
+Weather,9,Cloud-Walking,3,7
+Weather,9,Cool,3,7

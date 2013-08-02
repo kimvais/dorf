@@ -1,0 +1,874 @@
+Accelerate Time (VH),20,Gate,4,6,Blue,Black,,86
+Accuracy,15,Enchantment,4,6,White,Yellow,,65
+Acid Ball,8,Water,3,7,Yellow,Green,,191
+Acid Jet,10,Water,3,7,Yellow,Green,,192
+Adjustable Clothing,14,Enchantment,4,6,White,Yellow,,58
+Affect Spirits,4,Necromancy,2,8,Black,White,Green,151
+Age (VH),6,Necromancy,3,7,Black,White,,154
+Agonize,5,Body Control,2,8,Red,Yellow,,40
+Air Jet,3,Air,2,8,Blue,White,,24
+Air Vision,3,Air,2,8,Blue,White,,24
+Air Vortex,5,Air,2,8,Blue,Yellow,,26
+Alarm,1,Knowledge,0,10,Blue,White,Red,100
+Alertness (VH),2,Mind Control,1,9,Blue,White,,133
+Alter Body,10,Body Control,3,7,Red,Yellow,,41
+Alter Terrain (VH),11,Earth,3,7,Green,Brown,White,55
+Alter Visage,9,Body Control,3,7,Red,Yellow,,41
+Alter Voice,8,Body Control,3,7,Black,Red,,41
+Ambidexterity,4,Body Control,2,8,Red,Yellow,White,39
+Analyze Magic,3,Knowledge,2,8,White,Red,,102
+Ancient History,5,Knowledge,2,8,White,Red,,106
+Animal Control (@Animal@),1,Animal,0,10,Green,Yellow,,30
+Animal Control (Bird),1,Animal,0,10,Green,Yellow,,30
+Animal Control (Fish),1,Animal,0,10,Green,Yellow,,30
+Animal Control (Mammal),1,Animal,0,10,Green,Yellow,,30
+Animal Control (Reptile),1,Animal,0,10,Green,Yellow,,30
+Animal Control (Vermin),1,Animal,0,10,Green,Yellow,,30
+Animate Machine/TL,15,Technology,4,6,,,,177
+Animate Object (VH),6,Making,3,7,Purple,Blue,,117
+Animate Plant,7,Plant,3,7,Green,Yellow,,164
+Animate Shadow,9,Necromancy,3,7,Black,Green,,154
+Animation (VH),2,Necromancy,1,9,Black,White,,150
+Apportation,0,Movement,0,10,Blue,Yellow,,142
+Arboreal Immurement,7,Plant,3,7,Green,,,165
+Armor,1,Protection,0,10,White,Green,,167
+Astral Block,16,Necromancy,4,6,Black,White,,159
+Astral Vision (VH),6,Knowledge,3,7,Red,White,Black,105
+Atmosphere Dome,9,Protection,3,7,Blue,White,,169
+Attune,12,Enchantment,4,6,White,Yellow,,69
+Aura,1,Knowledge,0,10,Red,White,,101
+Avoid,4,Mind Control,2,8,Black,Blue,White,140
+Awaken,2,Healing,1,9,Green,White,Gray,90
+Awaken Computer/TL,10,Technology,3,7,,,,178
+Awaken Craft Spirit,3,Necromancy,2,8,,,,115
+Balance,4,Body Control,2,8,Red,Yellow,,39
+Ball of Lightning,8,Air,3,7,Blue,White,,197
+Bane,11,Enchantment,3,7,White,Yellow,,62
+Banish,10,Necromancy,3,7,Black,White,,156
+Beacon,5,Gate,2,8,Black,Blue,Yellow,83
+Beast Link,2,Animal,1,9,Green,Yellow,,30
+Beast Possession,4,Animal,2,8,Green,Gray,,32
+Beast-Rouser,0,Animal,0,10,Green,Yellow,,30
+Beast Soother,0,Animal,0,10,Green,Yellow,White,29
+Beast Speech,2,Animal,1,9,Green,Yellow,White,30
+Beast Summoning,1,Animal,0,10,Green,Yellow,,30
+Beast Seeker,3,Animal,2,8,Green,Yellow,,32
+Berserker,2,Mind Control,1,9,Black,Blue,,134
+Bind Spirit (@Spirit@),12,Necromancy,4,6,Black,,,158
+Blackout,3,Light,2,8,Black,,,112
+Bladeturning,1,Protection,0,10,Green,White,,168
+Blank Spell Arrow (VH),18,Enchantment,4,6,White,Yellow,,66
+Bless,20,Meta,4,6,White,Green,Gray,129
+Bless Plants,3,Plant,2,8,Green,Yellow,Brown,161
+Blight,4,Plant,2,8,Green,Black,Red,162
+Blink,5,Gate,2,8,Blue,Yellow,Black,148
+Blink Other (VH),6,Movement,3,7,Blue,Yellow,Black,148
+Block,0,Protection,0,10,White,,,166
+Blossom,4,Plant,2,8,Green,Yellow,,162
+Blur,3,Light,2,8,Black,White,,113
+Body of Air,3,Air,2,8,Blue,White,,24
+Body of Flames (VH),8,Fire,3,7,Red,Yellow,,76
+Body of Ice (VH),6,Water,3,7,White,,,189
+Body of Lightning (VH),7,Air,3,7,Blue,White,,198
+Body of Metal (VH),3,Technology,2,8,Grey,,,183
+Body of Plastic,4,Technology,2,8,,,,183
+Body of Shadow,4,Light,2,8,Black,,,114
+Body of Slime,11,Plant,3,7,Green,Yellow,,165
+Body of Stone (VH),6,Earth,3,7,Brown,Green,Black,54
+Body of Water,4,Water,2,8,Blue,,,185
+Body of Wind,10,Air,3,7,Blue,Yellow,,27
+Body of Wood,7,Plant,3,7,Green,Brown,,165
+Body-Reading,1,Healing,0,10,White,Green,,88
+Boil Water,8,Water,3,7,Blue,Red,,189
+Boost Dexterity,4,Body Control,VALUE!,#VALUE!,Red,Yellow,White,37
+Boost Health,3,Body Control,VALUE!,#VALUE!,Red,Yellow,Green,37
+Boost Intelligence,7,Mind Control,VALUE!,#VALUE!,Red,Yellow,Blue,37
+Boost Strength,1,Body Control,VALUE!,#VALUE!,Red,Yellow,Black,37
+Borrow Language,4,Communication,2,8,Green,White,,46
+Borrow Skill,6,Communication,3,7,Green,White,,47
+Bravery,1,Mind Control,0,10,White,Blue,,134
+Breathe Air,6,Air,3,7,Blue,Green,,26
+Breathe Fire (VH),7,Fire,3,7,Red,Yellow,,76
+Breathe Radiation (VH),9,Technology,3,7,Purple,,,182
+Breathe Steam (VH),14,Water,4,6,Blue,Black,,192
+Breathe Water,6,Air,3,7,Blue,Green,White,189
+Bright Vision,1,Light,0,10,White,Black,,111
+Burning Death (VH),10,Necromancy,3,7,Red,,,76
+Burning Touch,6,Fire,3,7,Red,Yellow,,76
+Cadence,5,Body Control,2,8,Red,Yellow,,39
+Catch Missile,2,Protection,1,9,White,Green,,168
+Catch Spell (VH),4,Meta,2,8,All,,,123
+Charge Powerstone (VH),12,Meta,4,6,Purple,,,126
+Charm,8,Mind Control,3,7,Black,Blue,,139
+Choke,5,Body Control,2,8,Red,Yellow,Black,40
+Clean,2,Making,1,9,White,Brown,,116
+Cleansing,12,Healing,4,6,Brown,,,94
+Climbing,0,Body Control,0,10,Red,Yellow,,35
+Cloud-Vaulting (VH),12,Weather,4,6,Blue,,,148
+Cloud-Walking,9,Weather,3,7,Blue,,,148
+Clouds,4,Air,2,8,Blue,White,,194
+Clumsiness,2,Body Control,1,9,Red,Yellow,,36
+Cold,4,Fire,2,8,Blue,White,,74
+Colors,1,Light,0,10,Black,White,Gray,110
+Command,2,Mind Control,1,9,Black,Blue,,136
+Command Spirit (@spirit@),5,Necromancy,2,8,Black,Red,,153
+Communication (VH),9,Communication,3,7,Green,White,,48
+Compel Lie,4,Mind Control,2,8,Black,Red,,137
+Compel Truth,3,Communication,2,8,White,Green,,47
+Complex Illusion,2,Illusion,1,9,Green,Red,,96
+Conceal,4,Plant,2,8,Green,Brown,,162
+Conceal Magic,1,Meta,0,10,All,,,122
+Concussion,5,Sound,2,8,Black,Red,Blue,26
+Condense Steam,5,Water,2,8,Blue,,,189
+Conduct Power/TL (VH),1,Technology,0,10,,,,180
+Continual Light,1,Light,0,10,White,,,110
+Continual Mage Light,5,Light,2,8,White,,,113
+Continual Sunlight,5,Light,2,8,White,,,114
+Contract Object (VH),15,Making,4,6,,,,120
+Control Creation,10,Illusion,3,7,,,,99
+Control Air Elemental,9,Water,3,7,Blue,White,,28
+Control Water Elemental,9,Water,3,7,Blue,,,28
+Control Fire Elemental,9,Water,3,7,Red,,,28
+Control Earth Elemental,9,Water,3,7,Green,Brown,,28
+Control Gate,12,Gate,4,6,Black,Blue,,85
+Control Illusion,4,Illusion,2,8,Green,Red,,97
+Control Limb,5,Body Control,2,8,Red,Yellow,,40
+Control Person,5,Communication,2,8,Green,White,,49
+Control Zombie,5,Necromancy,2,8,Black,Red,,152
+Converse,4,Sound,2,8,Black,Red,,173
+Cook,3,Food,2,8,Brown,Red,,78
+Cool,9,Weather,3,7,Blue,White,,195
+Coolness,5,Water,2,8,White,Blue,Green,187
+Copy,5,Making,2,8,Red,White,,116
+Cornucopia,13,Enchantment,4,6,,,,64
+Corpulence (VH),16,Body Control,4,6,Brown,Red,Yellow,43
+Counterspell,0,Meta,0,10,All,,,121
+Create Air Elemental,10,Air,3,7,Blue,Brown,,28
+Create Acid,7,Water,3,7,Yellow,Green,,190
+Create Air,1,Air,0,10,Brown,,,23
+Create Animal,12,Illusion,4,6,Purple,,,98
+Create Door,10,Gate,3,7,Black,Blue,,84
+Create Earth,3,Earth,2,8,,,,51
+Create Earth Elemental,10,Earth,3,7,Green,Brown,,28
+Create Fire,1,Fire,0,10,Red,Yellow,,72
+Create Fire Elemental,10,Fire,3,7,Red,Yellow,,28
+Create Food,5,Food,2,8,,,,79
+Create Fuel/TL,5,Technology,2,8,,,,179
+Create Gate (VH),14,Gate,4,6,Black,Blue,,85
+Create Ice,5,Water,2,8,White,,,188
+Create Mount,13,Illusion,4,6,,,,99
+Create Object (VH),8,Illusion,3,7,,,,98
+Create Plants,4,Plant,2,8,(Green),(Brown),,163
+Create Servant,9,Illusion,3,7,(Green),(Red),,98
+Create Spring,8,Water,3,7,(Blue),,,190
+Create Steam,9,Water,3,7,(Blue),(Red),,190
+Create Warrior,10,Illusion,3,7,(Green),(Red),,98
+Create Water,2,Water,1,9,(Blue),,,184
+Create Water Elemental,10,Water,3,7,Blue,,,28
+Crystal Ball,13,Enchantment,4,6,White,Gray,Yellow,71
+Cure Disease,5,Healing,2,8,(Green),(White),(Brown),91
+Cure Radiation (VH),12,Technology,4,6,(Purple),(White),,182
+Current,6,Weather,3,7,Blue,,,194
+Curse,20,Meta,4,6,Black,Gray,White,129
+Dancing Object,1,Movement,0,10,Blue,Yellow,Green,144
+Dancing Shield,12,Enchantment,4,6,White,Yellow,,67
+Dancing Weapon,12,Enchantment,4,6,Yellow,White,,63
+Dark Vision,2,Light,1,9,Black,Red,,111
+Darkness,2,Light,1,9,Black,,,111
+Daze,1,Mind Control,0,10,Black,Blue,,134
+Death Vision,0,Necromancy,0,10,Black,Gray,,149
+Deathtouch,7,Body Control,3,7,Red,,,41
+Debility,0,Body Control,0,10,Yellow,Brown,Gray,36
+Decapitation (VH),11,Body Control,3,7,Red,Yellow,,42
+Decay,1,Food,0,10,Black,Gray,,77
+Defending Shield,14,Enchantment,4,6,White,Yellow,,67
+Defending Weapon,12,Enchantment,4,6,White,Yellow,,64
+Deflect,11,Enchantment,3,7,White,Yellow,,67
+Deflect Energy,2,Fire,1,9,Red,Yellow,,73
+Deflect Missile,1,Protection,0,10,White,Green,Yellow,143
+Dehydrate,5,Water,2,8,Yellow,Red,Black,188
+Delay,15,Meta,4,6,All,,,130
+Delayed Message,3,Sound,2,8,Black,Red,,173
+Destroy Air,2,Air,1,9,Blue,,,24
+Destroy Water,3,Water,2,8,Blue,Yellow,,185
+Detect Magic,0,Knowledge,0,10,Red,White,,101
+Detect Poison,1,Healing,0,10,Brown,White,Green,166
+Devitalize Air,3,Air,2,8,Blue,Yellow,,25
+Disintegrate (VH),17,Making,4,6,Red,Black,Yellow,120
+Disorient,1,Mind Control,0,10,Black,Blue,,135
+Dispel Creation,11,Illusion,3,7,Green,Red,,99
+Dispel Illusion,5,Illusion,2,8,Green,Red,White,97
+Dispel Magic,13,Meta,4,6,All,,,126
+Dispel Possession,5,Communication,2,8,Green,White,,49
+Displace Spell,10,Meta,3,7,All,,,124
+Distant Blow,1,Movement,0,10,Blue,Yellow,,144
+Distill,7,Water,3,7,Red,Yellow,,79
+Divert Teleport (VH),6,Movement,3,7,Black,Blue,,84
+Divination: Astrology,1,,,,Red,White,Gray,108
+Divination: Cartomancy,4,,,,,,Gray,108
+Divination: Crystal-Gazing,1,,,,,Black,Gray,108
+Divination: Extispicy,4,,,,,Grey,Green,108
+Divination: Oneiromancy,4,,,,Red,Grey,White,108
+Divination: Pyromancy,4,,,,Red,,,108
+Doppelganger (VH),29,Enchantment,5,5,Yellow,,,62
+Drain Magery (VH),21,Meta,4,6,Black,,,130
+Drain Mana (VH),14,Meta,4,6,All,,,127
+Draw Power/TL (VH),22,Technology,4,6,Purple,,,180
+Dream Projection,4,Mind Control,2,8,Green,White,Blue,46
+Dream Sending,3,Mind Control,2,8,Green,White,Blue,45
+Dream Viewing,3,Communication,2,8,Green,White,,45
+Drunkenness,4,Mind Control,2,8,Black,Blue,,136
+Dry Spring,6,Water,3,7,Black,,,188
+Dull @Sense@,0,Mind Control,0,10,Black,Blue,,133
+Dull Hearing,0,Mind Control,0,10,Black,Blue,,133
+Dull Touch,0,Mind Control,0,10,Black,Blue,,133
+Dull Taste and Smell,0,Mind Control,0,10,Black,Blue,,133
+Dull Vision,0,Mind Control,0,10,Black,Blue,,133
+Dullness (VH),2,Mind Control,1,9,Black,Blue,,134
+Duplicate (VH),15,Illusion,4,6,(Green),(Red),,98
+Dye,4,Making,2,8,Green,Red,,116
+Earth to Air,4,Air,2,8,Blue,Green,,25
+Earth to Stone,2,Earth,1,9,Brown,Green,Black,51
+Earth to Water,5,Water,2,8,Brown,Green,Black,52
+Earth Vision,2,Knowledge,1,9,Green,Brown,White,51
+Earthquake,6,Earth,3,7,Brown,Green,Black,54
+Echoes of the Past,7,Sound,3,7,Red,White,,107
+Ecstasy (VH),4,Mind Control,2,8,Black,Blue,,139
+Effigy (VH),13,Enchantment,4,6,White,Yellow,,71
+Emotion Control,3,Mind Control,2,8,Blue,Black,,137
+Enchant (VH),10,Enchantment,3,7,All,,,56
+Encrypt,2,Mind Control,1,9,Blue,Green,Red,135
+Enlarge (VH),11,Body Control,3,7,Red,Yellow,,42
+Enlarge Object (VH),16,Making,4,6,Green,Red,,120
+Enlarge Other (VH),12,Body Control,4,6,Red,Yellow,,43
+Enslave (VH),14,Mind Control,4,6,Black,Blue,,141
+Ensorcel (VH),12,Enchantment,4,6,Black,White,Gray,60
+Enthrall,6,Mind Control,3,7,Blue,,,139
+Entombment,5,Earth,6,4,Black,Brown,Green,53
+Entrap Spirit,11,Necromancy,3,7,Black,Red,,157
+Essential Acid (VH),13,Water,4,6,Yellow,,,192
+Essential Air,6,Air,3,7,Blue,White,,26
+Essential Earth,6,Earth,3,7,Green,Brown,,53
+Essential Flame,6,Fire,3,7,Red,Yellow,,75
+Essential Food (VH),8,Food,3,7,Green,Brown,,79,"Only from food, converts food to more ""dense"" food"
+Essential Fuel/TL,6,Technology,3,7,Purple,,,179
+Essential Water,6,Water,3,7,Blue,,,189
+Essential Wood,6,Plant,3,7,Green,Brown,,164
+Ethereal Body (VH),4,Movement,2,8,Blue,Yellow,,146
+Evisceration (VH),6,Necromancy,3,7,Black,,,154
+Exchange Bodies (VH),17,Communication,4,6,None,,,49
+Explode (VH),8,Making,3,7,-,,,118
+Explosive Fireball,4,Fire,2,8,Red,,,75
+Explosive Lightning,7,Weather,3,7,Blue,,,196
+Extend Object (VH),15,Making,4,6,Red,Green,,120
+Extinguish Fire,1,Fire,0,10,Blue,,,72
+Extinguish Radiation (VH),8,Technology,3,7,Purple,,,181
+False Aura,3,Meta,2,8,Green,Red,,122
+False Memory,7,Mind Control,3,7,Black,Blue,,139
+False Tracks,5,Plant,2,8,Green,Brown,Yellow,163
+Far-Feeling,0,Knowledge,0,10,Red,White,,100
+Far-Hearing,4,Sound,2,8,Black,Red,White,173
+Far-Tasting,1,Knowledge,0,10,Brown,Red,White,77
+Fascinate,2,Mind Control,1,9,Blue,Black,,135
+Fast Fire,3,Fire,2,8,Red,,,73
+Fasten,10,Making,3,7,Blue,Yellow,,118
+Fear,0,Mind Control,0,10,Black,Gray,,134
+Final Rest,0,Necromancy,0,10,White,Gray,Brown,89
+Find Direction,0,Knowledge,0,10,Red,White,,101
+Find Weakness,4,Making,2,8,Red,,,116
+Fire Cloud,7,Fire,3,7,Red,Yellow,,75
+Fireball,3,Fire,2,8,Red,Yellow,,74
+Fireproof,2,Fire,1,9,Blue,White,,73
+Flame Jet,3,Fire,2,8,Red,Yellow,,73
+Flaming Armor,7,Fire,3,7,Red,Yellow,,75
+Flaming Missiles,5,Fire,2,8,Red,Yellow,,75
+Flaming Weapon,4,Fire,2,8,Red,Yellow,White,75
+Flash,2,Light,1,9,White,Yellow,,112
+Flesh to Ice (VH),8,Water,3,7,White,,,190
+Flesh to Stone,3,Earth,2,8,Black,,,51
+Flight (VH),2,Movement,1,9,(Blue),(Yellow),,145
+Flying Carpet (VH),3,Movement,2,8,Blue,Yellow,Purple,146
+Fog,4,Weather,2,8,Blue,Green,Gray,193
+Fool's Banquet,5,Food,2,8,Green,Red,Brown,79
+Foolishness,0,Mind Control,0,10,Black,Blue,,134
+Force Dome,10,Protection,3,7,White,Purple,,170
+Force Wall,11,Protection,3,7,White,Purple,,170
+Forest Warning,4,Plant,2,8,Green,Gray,Brown,162
+Forgetfulness,1,Mind Control,0,10,Black,Blue,,135
+Fortify,11,Enchantment,3,7,White,Yellow,,66
+Foul Water,4,Food,2,8,Black,Gray,,185
+Frailty,1,Body Control,0,10,Black,Gray,Red,37
+Freedom,9,Protection,3,7,Blue,Yellow,White,148
+Freeze,4,Water,2,8,White,,,185
+Frost,3,Weather,2,8,White,Gray,Green,193
+Frostbite,6,Water,3,7,White,Gray,Green,189
+Fumble,3,Body Control,2,8,Red,Yellow,,38
+Garble,2,Sound,1,9,Black,Red,,172
+Gauntness (VH),15,Body Control,4,6,Yellow,Gray,Black,43
+Geyser (VH),9,Water,3,7,(Blue),,,190
+Ghost Weapon,14,Enchantment,4,6,White,Yellow,,65
+Gift of Letters (VH),5,Communication,2,8,Green,White,,46
+Gift of Tongues (VH),5,Communication,2,8,Green,White,,46
+Glass Wall,3,Knowledge,2,8,Red,White,,103
+Glib Tongue,6,Mind Control,3,7,Black,Blue,Gray,141
+Glitch/TL,12,Technology,4,6,Black,Yellow,,176
+Gloom,2,Light,1,9,Black,Gray,,112
+Glow,2,Light,1,9,White,Gray,,112
+Glue,1,Movement,0,10,Yellow,Blue,,142
+Golem (VH),14,Enchantment,4,6,White,Yellow,,159
+Grace,3,Body Control,2,8,Red,Yellow,,37
+Graceful Weapon,11,Enchantment,3,7,Yellow,,,63
+Great Geas (VH),15,Mind Control,4,6,Black,Blue,Gray,141
+Grease,1,Movement,0,10,Blue,Yellow,,142
+Great Hallucination (VH),8,Mind Control,3,7,Black,Blue,,141
+Great Haste (VH),1,Movement,0,10,Blue,Yellow,,146
+Great Healing (VH),4,Healing,2,8,(Brown),(White),,91
+Great Shapeshift (VH),15,Animal,4,6,Green,(Brown),Purple,34
+Great Voice,3,Sound,2,8,Black,Red,,173
+Great Ward,1,Meta,0,10,White,Blue,Green,122
+Great Wish (VH),18,Enchantment,4,6,White,Yellow,,62
+Hail,8,Weather,3,7,White,Blue,,195
+Hair Growth,5,Body Control,2,8,Gray,White,,39
+Haircut,8,Body Control,3,7,Gray,Red,Yellow,39
+Hallucination,7,Mind Control,3,7,Black,Blue,,140
+Halt Aging (VH),8,Healing,3,7,White,Red,Brown,94
+Hang Spell (VH),16,Meta,4,6,Purple,,,128
+Hardiness,1,Protection,0,10,Green,White,,167
+Haste,0,Movement,0,10,Blue,Yellow,,142
+Hawk Flight (VH),3,Movement,2,8,Blue,Yellow,Purple,146
+Hawk Vision,1,Light,0,10,White,Green,,111
+Heal Plant,2,Plant,1,9,Green,Brown,Gray,161
+Healing Slumber,6,Healing,3,7,White,Green,Brown,94
+Heat,3,Fire,2,8,Red,Yellow,,74
+Hex,11,Enchantment,3,7,Black,,,57
+Hide,2,Light,1,9,Black,Blue,Gray,113
+Hide Emotion,2,Communication,1,9,Green,White,Gray,45
+Hide Object,20,Gate,4,6,Black,Blue,,86
+Hide Path,3,Plant,2,8,Green,Gray,,162
+Hide Thoughts,3,Communication,2,8,Green,Yellow,Gray,46
+Hideaway,15,Enchantment,4,6,White,Yellow,,61
+Hinder,1,Movement,0,10,Yellow,Green,Black,36
+History,4,Knowledge,2,8,White,Red,,106
+Hold Breath,3,Body Control,2,8,Yellow,Blue,White,39
+Hold Fast,1,Movement,0,10,Blue,Yellow,,143
+Homunculus,15,Enchantment,4,6,Black,Gray,Blue,70
+Hunger,3,Food,2,8,Gray,Red,Yellow,38
+Hush,2,Sound,1,9,Blue,Gray,Green,172
+Hybrid Control (VH),3,Animal,2,8,Green,Gray,,30
+Ice Dagger,5,Water,2,8,White,Blue,,188
+Ice Slick,4,Water,2,8,White,Blue,,186
+Ice Sphere,4,Water,2,8,White,Blue,,186
+Icy Breath (VH),12,Water,4,6,White,Blue,,192
+Icy Missiles,4,Water,2,8,White,Blue,,186
+Icy Touch,4,Water,2,8,White,Blue,,188
+Icy Weapon,3,Water,2,8,White,Blue,,185
+Identify Metal,0,Technology,0,10,Purple,,,182
+Identify Plant,1,Plant,0,10,Green,Gray,,161
+Identify Plastic,0,Technology,0,10,Purple,,,182
+Identify Spell,1,Knowledge,0,10,All,,,102
+Ignite Fire,0,Fire,0,10,Red,Gray,Yellow,72
+Illusion Disguise,1,Illusion,0,10,Green,Yellow,,96
+Illusion Shell,1,Illusion,0,10,Green,Yellow,,96
+Images of the Past,6,Knowledge,3,7,Black,White,Gray,107
+Imitate Voice,2,Sound,1,9,Black,Red,,172
+Impression Blocker,12,Enchantment,4,6,White,Red,,60
+Increase Burden,1,Movement,0,10,Blue,Yellow,Black,143
+Independence,1,Illusion,0,10,Red,Green,,96
+Infravision,1,Light,0,10,Red,Black,White,111
+Initiative,9,Illusion,3,7,Red,Green,,97
+Inscribe,7,Making,3,7,All,,,97
+Insignificance,8,Communication,3,7,Green,Gray,,48
+Inspired Creation (VH),0,Making,0,10,White,Yellow,,115
+Instant Neutralize Poison,2,Healing,1,9,(Brown),(White),,92
+Instant Regeneration (VH),6,Healing,3,7,(Brown),(White),,93
+Instant Restoration (VH),5,Healing,2,8,(Brown),(White),,93
+Invisibility,6,Light,3,7,All,,,114,Hard prereqs!
+Invisible Wizard Ear,14,Sound,4,6,Black,Red,Purple,174
+Invisible Wizard Eye,10,Knowledge,3,7,Red,White,Purple,104
+Iron Arm,4,Protection,2,8,White,Green,,169
+Irradiate,4,Technology,2,8,Purple,,,181
+Itch,0,Body Control,0,10,Red,Yellow,Gray,35
+Jump,1,Movement,0,10,Blue,Yellow,,143
+Keen @Sense@,0,Mind Control,0,10,Black,Blue,,133
+Keen Hearing,0,Mind Control,0,10,Black,Blue,,133
+Keen Touch,0,Mind Control,0,10,Black,Blue,,133
+Keen Taste and Smell,0,Mind Control,0,10,Black,Blue,,133
+Keen Vision,0,Mind Control,0,10,Black,Blue,,133
+Knot,9,Making,3,7,Blue,Yellow,,117
+Know Illusion,1,Illusion,0,10,Green,Red,White,97
+Know Location,2,Knowledge,1,9,White,Red,,103
+Know Recipe,4,Food,2,8,Gray,White,Yellow,78
+Know True Shape,9,Knowledge,3,7,White,Red,Gray,106
+Leak,16,Enchantment,4,6,Yellow,Black,Gray,61
+Lend Energy,0,Healing,0,10,(Brown),,,89
+Lend Language,3,Communication,2,8,Green,White,,46
+Lend Power/TL,1,Technology,0,10,(Purple),,,180
+Lend Skill,5,Communication,2,8,,,,47
+Lend Spell,11,Meta,3,7,,,,126
+Lend Vitality,1,Healing,0,10,,,,89
+Lengthen Limb,7,Body Control,3,7,,,,41
+Lesser Geas (VH),10,Mind Control,3,7,,,,140
+Lesser Wish (VH),11,Enchantment,3,7,,,,58
+Levitation,1,Movement,0,10,,,,143
+Lich (VH),19,Necromancy,4,6,,,,159
+Light,0,Light,0,10,,,,110
+Light Jet,2,Light,1,9,,,,112
+Light Tread,3,Movement,2,8,,,,145
+Lighten,11,Enchantment,3,7,,,,67
+Lighten Burden,1,Movement,0,10,,,,143
+Lightning,6,Air,3,7,Blue,Yellow,White,196
+Lightning Armor,12,Air,4,6,Blue,White,,198
+Lightning Missiles,8,Air,3,7,,,,198
+Lightning Stare (VH),8,Weather,3,7,,,,198
+Lightning Weapon,7,Air,3,7,,,,198
+Lightning Whip,7,Air,3,7,,,,196
+Limit,11,Enchantment,3,7,,,,68
+Link,16,Meta,4,6,,,,131
+Lockmaster,1,Movement,0,10,,,,144
+Locksmith,1,Movement,0,10,,,,143
+Long March,1,Movement,0,10,,,,143
+Loyal Sword,11,Enchantment,3,7,,,,63
+Loyalty,3,Mind Control,2,8,,,,136
+Lure,4,Mind Control,2,8,,,,137
+Machine Control/TL,11,Technology,3,7,,,,176
+Machine Possession/TL,16,Technology,4,6,,,,178
+Machine Speech/TL,13,Communication,4,6,,,,176
+Machine Summoning/TL,12,Technology,4,6,,,,176
+Madness,2,Mind Control,1,9,,,,136
+Mage Light,3,Light,2,8,,,,113
+Mage Sense,1,Knowledge,0,10,,,,102
+Mage Sight,1,Knowledge,0,10,,,,102
+Mage-Stealth,3,Sound,2,8,,,,172
+Magelock,0,Protection,0,10,,,,166
+Magic Resistance,7,Meta,3,7,,,,123
+Magnetic Vision,1,Technology,0,10,,,,181
+Maintain Spell (VH),17,Meta,4,6,,,,128
+Major Healing (VH),3,Healing,2,8,,,,91
+Malefice (VH),11,Enchantment,3,7,,,,60
+Malfunction/TL,13,Technology,4,6,,,,177
+Manastone (VH),11,Enchantment,3,7
+Manipulate,2,Movement,1,9
+Mapmaker,9,Making,3,7
+Mass Daze,2,Mind Control,1,9
+Mass Sleep,3,Mind Control,2,8
+Mass Suggestion,6,Mind Control,3,7
+Mass Zombie (VH),5,Necromancy,2,8
+Master,1,Animal,0,10
+Materialize,2,Necromancy,1,9
+Mature,2,Food,1,9
+Measurement,0,Knowledge,0,10
+Melt Ice,4,Water,2,8
+Memorize,6,Knowledge,3,7
+Memorize,6,Mind Control,3,7
+Mental Stun,2,Mind Control,1,9
+Message,7,Communication,3,7
+Message,7,Sound,3,7
+Metal Vision,3,Technology,2,8
+Might,1,Body Control,0,10
+Mind-Reading,3,Communication,2,8
+Mind-Search (VH),4,Communication,2,8
+Mind-Sending,4,Communication,2,8
+Mindlessness (VH),2,Mind Control,1,9
+Minor Healing,2,Healing,1,9
+Mirror,2,Light,1,9
+Missile Shield,1,Protection,0,10
+Monk's Banquet,10,Food,3,7
+Move Terrain (VH),29,Earth,5,5
+Mud Jet,8,Water,3,7
+Musical Scribe,5,Sound,2,8
+Mystic Mark,9,Making,3,7
+Mystic Mist,1,Protection,0,10
+Name,11,Enchantment,3,7
+Nauseate,5,Body Control,2,8
+Neutralize Poison,1,Healing,0,10
+Night Vision,1,Light,0,10
+Nightingale,1,Protection,0,10
+Nightmare,5,Mind Control,2,8
+No-Smell,1,Air,0,10,Blue,White,,24
+Noise,3,Sound,2,8
+Oath,4,Mind Control,2,8
+Odor,2,Air,1,9,Blue,Green,,24
+One-College Powerstone,11,Enchantment,3,7
+Pain,2,Body Control,1,9
+Panic,1,Mind Control,0,10
+Paralyze Limb,5,Body Control,2,8
+Partial Petrification (VH),4,Earth,2,8
+Partial Shapeshifting (VH),12,Animal,4,6
+Password,11,Enchantment,3,7
+Pathfinder,2,Knowledge,1,9
+Peaceful Sleep,5,Mind Control,2,8
+Penetrating Spell,16,Meta,4,6
+Penetrating Weapon,11,Enchantment,3,7
+Pentagram,9,Meta,3,7
+Perfect Illusion,3,Illusion,2,8
+Perfume,3,Body Control,2,8
+Permanent Beast Possession (VH),5,Animal,2,8
+Permanent Forgetfulness (VH),2,Mind Control,1,9
+Permanent Machine Possession/TL,17,Technology,4,6
+Permanent Madness (VH),3,Mind Control,2,8
+Permanent Possession (VH),6,Communication,3,7
+Permanent Shapeshifting (@Specialty@) (VH),7,Animal,3,7
+Persuasion,2,Communication,1,9
+Pestilence,7,Necromancy,3,7
+Phantom (VH),7,Illusion,3,7
+Phantom Flame,1,Illusion,0,10
+Phase,5,Gate,2,8
+Phase Other (VH),6,Gate,3,7
+Planar Summons (@Plane@),10,Gate,3,7
+Planar Visit (@Plane@) (VH),7,Gate,3,7
+Plane Shift (@Plane@) (VH),11,Gate,3,7
+Plane Shift Other (@Plane@) (VH),12,Gate,4,6
+Plant Control,6,Plant,3,7
+Plant Form,6,Plant,3,7
+Plant Form Other,7,Plant,3,7
+Plant Growth,3,Plant,2,8
+Plant Sense,5,Plant,2,8
+Plant Speech,6,Plant,3,7
+Plant Vision,3,Knowledge,2,8
+Plastic Vision,4,Technology,2,8
+Poison Food,3,Food,2,8
+Pollen Cloud,3,Plant,2,8
+Poltergeist,1,Movement,0,10
+Possession (VH),5,Communication,2,8
+Power,12,Enchantment,4,6
+Powerstone,11,Enchantment,3,7
+Predict Earth Movement,4,Earth,2,8
+Predict Weather,4,Air,2,8,Blue,Green,Yellow,193
+Predict Weather,4,Weather,2,8
+Prehistory,6,Knowledge,3,7
+Prepare Game,3,Food,2,8
+Presence,8,Communication,3,7
+Preserve Food,2,Food,1,9
+Preserve Fuel/TL,1,Technology,0,10
+Projection,6,Knowledge,3,7
+Propel/TL,8,Technology,3,7
+Protect Animal,7,Protection,3,7
+Puissance,15,Enchantment,4,6
+Pull,4,Movement,2,8
+Purify Air,0,Air,0,10,Blue,White,,23
+Purify Earth,8,Plant,3,7
+Purify Food,2,Food,1,9
+Purify Fuel/TL,2,Technology,1,9
+Purify Water,1,Water,0,10
+Quick March,1,Movement,0,10
+Quick-Aim,14,Enchantment,4,6
+Quick-Draw,11,Enchantment,3,7
+Radiation Jet,8,Technology,3,7
+Radio Hearing,1,Technology,0,10
+Rain,5,Air,2,8,Green,Blue,White,195
+Rain of Acid,7,Water,3,7
+Rain of Fire,2,Fire,1,9
+Rain of Ice Daggers,12,Water,4,6
+Rain of Nuts,6,Plant,3,7
+Rain of Stones,4,Earth,2,8
+Rapid Journey (VH),5,Movement,2,8
+Rear Vision,3,Mind Control,2,8
+Rebuild/TL,22,Technology,4,6
+Recall,9,Mind Control,3,7
+Reconstruct Spell,7,Knowledge,3,7
+Recover Energy,1,Healing,0,10
+Reflect,1,Meta,0,10
+Reflect Gaze (VH),3,Protection,2,8
+Reflex,16,Meta,4,6
+Reflexes,5,Body Control,2,8
+Regeneration (VH),5,Healing,2,8
+Rejoin,7,Making,3,7
+Rejuvenate Plant,4,Plant,2,8
+Relieve Addiction,2,Healing,1,9
+Relieve Madness,9,Mind Control,3,7
+Relieve Paralysis,5,Healing,2,8
+Relieve Sickness,2,Healing,1,9
+Remember Path,7,Knowledge,3,7
+Remove Aura,14,Meta,4,6
+Remove Contagion,2,Healing,1,9
+Remove Curse,13,Meta,4,6
+Remove Enchantment,11,Enchantment,3,7
+Remove Reflection,2,Light,1,9
+Remove Shadow,1,Light,0,10
+Repair,8,Making,3,7
+Repel,4,Movement,2,8
+Repel Animal (@Animal@),2,Animal,1,9
+Repel Animal (Bird),2,Animal,1,9
+Repel Animal (Fish),2,Animal,1,9
+Repel Animal (Mammal),2,Animal,1,9
+Repel Animal (Reptile),2,Animal,1,9
+Repel Animal (Vermin),2,Animal,1,9
+Repel Hybrids (VH),4,Animal,2,8
+Repel Spirits,14,Necromancy,4,6
+Reshape,7,Making,3,7
+Resist Acid,8,Water,3,7
+Resist Cold,4,Fire,2,8
+Resist Disease,3,Protection,2,8
+Resist Fire,3,Fire,2,8
+Resist Lightning,6,Air,3,7,Blue,White,Yellow,196
+Resist Pain,3,Body Control,2,8
+Resist Poison,3,Healing,2,8
+Resist Poison,3,Protection,2,8
+Resist Pressure,9,Protection,3,7
+Resist Radiation,7,Technology,3,7
+Resist Sound,4,Protection,2,8
+Resist Water,2,Water,1,9
+Restore Speech,6,Healing,3,7
+Restoration (VH),4,Healing,2,8
+Restore,1,Making,0,10
+Restore Hearing,4,Healing,2,8
+Restore Mana (VH),14,Meta,4,6
+Restore Memory,3,Healing,2,8
+Restore Sight,4,Healing,2,8
+Resurrection (VH),9,Necromancy,3,7
+Retch,7,Body Control,3,7
+Retrogression,6,Communication,3,7
+Return Missile,3,Protection,2,8
+Reveal Function/TL,1,Technology,0,10
+Reverse Missiles,2,Protection,1,9
+Rider (@Animal@),2,Animal,1,9
+Rider Within,3,Animal,2,8
+Rive (VH),7,Making,3,7
+Rooted Feet,2,Body Control,1,9
+Rotting Death (VH),9,Necromancy,3,7
+Roundabout,4,Body Control,2,8
+Ruin,8,Making,3,7
+Sanctuary (VH),21,Gate,4,6
+Sand Jet,4,Earth,2,8
+Sandstorm,8,Earth,3,7
+Scents of the Past,8,Knowledge,3,7
+Schematic/TL,7,Technology,3,7
+Scribe,4,Sound,2,8
+Scroll,0,Enchantment,0,10
+Scry Gate,12,Gate,4,6
+Scryfool,3,Meta,2,8
+Scryguard,0,Meta,0,10
+Scrywall,1,Meta,0,10
+Season,1,Food,0,10
+See Invisible,3,Light,2,8
+See Radiation,0,Technology,0,10
+See Secrets,5,Knowledge,2,8
+Seek Air,0,Air,0,10,Blue,White,,23
+Seek Coastline,1,Water,0,10
+Seek Earth,0,Earth,0,10
+Seek Fire,0,Fire,0,10
+Seek Food,0,Food,0,10
+Seek Fuel/TL,0,Technology,0,10
+Seek Gate,11,Gate,3,7
+Seek Machine/TL,0,Technology,0,10
+Seek Magic,1,Meta,0,10
+Seek Pass,1,Earth,0,10
+Seek Plant,0,Plant,0,10
+Seek Plastic,0,Technology,0,10
+Seek Power/TL,0,Technology,0,10
+Seek Radiation,1,Technology,0,10
+Seek Water,0,Water,0,10
+Seeker,2,Knowledge,1,9
+Sense Danger,0,Protection,0,10
+Sense Emotion,1,Communication,0,10
+Sense Foes,0,Communication,0,10
+Sense Life,0,Communication,0,10
+Sense Mana,1,Knowledge,0,10
+Sense Observation,1,Protection,0,10
+Sense Spirit,1,Necromancy,0,10
+Sensitize,4,Body Control,2,8
+Shade,1,Protection,0,10
+Shape Air,2,Air,1,9,Blue,White,,24
+Shape Darkness,3,Light,2,8
+Shape Earth,1,Earth,0,10
+Shape Fire,1,Fire,0,10
+Shape Light,1,Light,0,10
+Shape Metal,2,Technology,1,9
+Shape Plant,2,Plant,1,9
+Shape Plastic,3,Technology,2,8
+Shape Water,3,Water,2,8
+Shapeshift Others (VH),7,Animal,3,7
+Shapeshifting (@Specialty@) (VH),6,Animal,3,7
+Share Energy,1,Healing,0,10
+Share Vitality,2,Healing,1,9
+Sharpen,9,Making,3,7
+Shatter (VH),6,Making,3,7
+Shatterproof,10,Making,3,7
+Shield,0,Protection,0,10
+Shocking Touch,7,Weather,3,7
+Shrink (VH),11,Body Control,3,7
+Shrink Object (VH),16,Making,4,6
+Shrink Other (VH),12,Body Control,4,6
+Sickness,5,Mind Control,2,8
+Silence,1,Sound,0,10
+Silver Tongue,6,Sound,3,7
+Simple Illusion,0,Illusion,0,10
+Simulacrum (VH),18,Enchantment,4,6
+Skull-Spirit,4,Necromancy,2,8
+Sleep,2,Mind Control,1,9
+Slide,3,Movement,2,8
+Slow,2,Movement,1,9
+Slow Fall,1,Movement,0,10
+Slow Fire,2,Fire,1,9
+Slow Healing,6,Necromancy,3,7
+Slow Time (VH),20,Gate,4,6
+Small Vision,1,Light,0,10
+Smoke,3,Fire,2,8
+Snow,7,Weather,3,7
+Snow Jet,6,Water,3,7
+Snow Shoes,4,Water,2,8
+Soilproof,3,Making,2,8
+Solidify,3,Necromancy,2,8
+Soul Jar (VH),9,Necromancy,3,7
+Soul Rider,4,Communication,2,8
+Soul Stone (VH),19,Enchantment,4,6
+Sound,0,Sound,0,10
+Sound Jet,4,Sound,2,8
+Sound Vision,0,Sound,0,10
+Spark Cloud,7,Weather,3,7
+Spark Storm,7,Weather,3,7
+Spasm,1,Body Control,0,10
+Spectrum Vision,2,Technology,1,9
+Speed,11,Enchantment,3,7
+Speed Spell Arrow,18,Enchantment,4,6
+Spell Arrow,17,Enchantment,4,6
+Spell Shield,8,Meta,3,7
+Spell Stone,16,Enchantment,4,6
+Spell Wall,9,Meta,3,7
+Spellguard (VH),14,Meta,4,6
+Spider Silk,2,Animal,1,9
+Spit Acid (VH),12,Water,4,6
+Staff,11,Enchantment,3,7
+Steal Beauty (VH),15,Necromancy,4,6
+Steal Dexterity (VH),6,Necromancy,#VALUE!,#VALUE!
+Steal Energy,3,Necromancy,2,8
+Steal Might (VH),4,Necromancy,E!,#VALUE!
+Steal Power/TL (VH),5,Technology,2,8
+Steal Skill (VH),9,Necromancy,3,7
+Steal Spell (VH),13,Meta,4,6
+Steal Vigor (VH),5,Necromancy,5,#VALUE!
+Steal Vitality,4,Necromancy,2,8
+Steal Wisdom (VH),4,Necromancy,#VALUE!,#VALUE!
+Steal Youth (VH),13,Necromancy,4,6
+Steam Jet,10,Water,3,7
+Steelwraith,5,Earth,2,8
+Stench,1,Air,0,10,Blue,Yellow,,24
+Stiffen,8,Making,3,7
+Stone Missile,4,Earth,2,8
+Stone to Earth,3,Earth,2,8
+Stone to Flesh,5,Earth,2,8
+Stop Bleeding,2,Healing,1,9
+Stop Healing,7,Necromancy,3,7
+Stop Paralysis,4,Healing,2,8
+Stop Power,1,Technology,0,10
+Stop Spasm,2,Healing,1,9
+Storm,10,Air,3,7,Blue,Yellow,,195
+Strengthen Will,6,Mind Control,3,7
+Strike Barren,7,Body Control,3,7
+Strike Blind,4,Body Control,2,8
+Strike Deaf,4,Body Control,2,8
+Strike Dumb,2,Body Control,1,9
+Strike Numb,4,Body Control,2,8
+Stun,3,Body Control,2,8
+Suggestion,5,Mind Control,2,8
+Summon Air Elemental,8,Air,3,7
+Summon Demon,10,Necromancy,3,7
+Summon Earth Elemental,8,Earth,3,7
+Summon Fire Elemental,8,Fire,3,7
+Summon Shade (VH),2,Knowledge,1,9
+Summon Spirit,1,Necromancy,0,10
+Summon Water Elemental,8,Water,3,7
+Sunbolt,6,Light,3,7
+Sunlight,4,Light,2,8
+Suspend Curse,12,Meta,4,6
+Suspend Enchantment,11,Enchantment,3,7
+Suspend Magery (VH),20,Meta,4,6
+Suspend Magic,9,Meta,3,7
+Suspend Mana (VH),11,Meta,3,7
+Suspend Spell,0,Meta,0,10
+Suspend Time (VH),21,Gate,4,6
+Suspended Animation,7,Healing,3,7
+Swim,6,Movement,3,7
+Tangle Growth,4,Plant,2,8
+Tanglefoot,2,Body Control,1,9
+Telecast (VH),12,Meta,4,6
+Telepathy (VH),5,Communication,2,8
+Teleport (VH),4,Gate,2,8
+Teleport (VH),4,Movement,2,8
+Teleport Other (VH),5,Movement,2,8
+Teleport Shield,7,Protection,3,7
+Tell Position,1,Knowledge,0,10
+Tell Time,0,Knowledge,0,10
+Temporary Enchantment,11,Enchantment,3,7
+Terror,1,Mind Control,0,10
+Test Food,0,Food,0,10
+Test Fuel/TL,0,Technology,0,10
+Test Load,1,Knowledge,0,10
+Thirst,5,Food,2,8
+Throw Spell (VH),16,Meta,4,6
+Thunderclap,1,Sound,0,10
+Tickle,2,Body Control,1,9
+Tide,8,Water,3,7
+Tide,8,Weather,3,7
+Time Out (VH),21,Gate,4,6
+Timeport (VH),5,Gate,2,8
+Timeport Other (VH),6,Gate,3,7
+Timeslip,6,Gate,3,7
+Timeslip Other (VH),7,Gate,3,7
+Total Paralysis,6,Body Control,3,7
+Touch,0,Body Control,0,10
+Toughen,11,Making,3,7
+Trace,3,Knowledge,2,8
+Trace Teleport,5,Movement,2,8
+Transform Object (VH),14,Making,4,6
+Transform Body (@Race@),13,Body Control,4,6
+Transform Other (@Race@),15,Body Control,4,6
+Transmogrification,32,Body Control,5,5
+Transparency,9,Making,3,7
+Truthsayer,2,Communication,1,9
+Turn Blade,1,Protection,0,10
+Turn Spirit,3,Necromancy,2,8
+Turn Zombie,5,Necromancy,2,8
+Umbrella,1,Water,0,10
+Undo,2,Movement,1,9
+Utter Dome,14,Protection,4,6
+Utter Wall,16,Protection,4,6
+Vexation,2,Communication,1,9
+Vigil (VH),4,Mind Control,2,8
+Vigor,2,Body Control,1,9
+Voices,1,Sound,0,10
+Volcano,13,Earth,4,6
+Walk on Air,3,Air,2,8,Blue,White,,25
+Walk on Water,4,Water,2,8
+Walk Through Earth,4,Earth,2,8
+Walk Through Plants,5,Plant,2,8
+Walk Through Water,4,Water,2,8
+Walk Through Wood,6,Plant,3,7
+Wall of Light,2,Light,1,9
+Wall of Lightning,7,Air,3,7
+Wall of Lightning,7,Weather,3,7
+Wall of Silence,2,Sound,1,9
+Wall of Wind,3,Air,2,8,Blue,White,,25
+Wallwalker,1,Movement,0,10
+Ward,0,Meta,0,10
+Warm,8,Weather,3,7
+Warmth,4,Protection,2,8
+Watchdog,1,Protection,0,10
+Water Jet,4,Water,2,8
+Water to Wine,5,Food,2,8
+Water Vision,4,Water,2,8
+Waves,4,Weather,2,8
+Weaken,5,Making,2,8
+Weaken Blood,5,Necromancy,2,8
+Weaken Will,1,Mind Control,0,10
+Weapon Self (VH),12,Making,4,6
+Weapon Spirit,12,Enchantment,4,6
+Weather Dome,8,Weather,3,7
+Whirlpool,4,Water,2,8
+Will Lock,4,Mind Control,2,8
+Wind,4,Air,2,8,Blue,Green,White,195
+Windstorm,3,Air,2,8,Blue,White,Green,25
+Winged Knife,2,Movement,1,9
+Wisdom,6,Mind Control,3,7
+Wish (VH),17,Enchantment,4,6
+Wither Limb,6,Body Control,3,7
+Wither Plant,5,Plant,2,8
+Wizard Ear,6,Sound,3,7
+Wizard Eye,2,Knowledge,1,9
+Wizard Hand,4,Knowledge,2,8
+Wizard Mouth,7,Sound,3,7
+Wizard Nose,3,Knowledge,2,8
+Wraith (VH),24,Necromancy,5,5
+Youth (VH),9,Healing,3,7
+Zombie,4,Necromancy,2,8
+Zombie Summoning,5,Necromancy,2,8
